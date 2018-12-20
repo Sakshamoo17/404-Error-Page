@@ -1,6 +1,6 @@
 # 404 Error Page
 404 Error Page
-*****
+**
 # Screenshot
 <img src="404.png">
 
